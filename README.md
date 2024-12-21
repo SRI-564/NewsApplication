@@ -1,2 +1,2 @@
 # NewsApplication
-Backend part
+A MERN Stack Tech app
